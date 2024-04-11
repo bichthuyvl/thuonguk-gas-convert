@@ -1,6 +1,6 @@
 {
   "name": "thuonguk-gas-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "thuonguk-gas-convert",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/thuonguk/thuonguk-gas-convert#readme",
   "dependencies": {
     "web3": "^1.5.2"
-    "thuonguk-gas-convert": "^1.0.0",
+    "thuonguk-gas-convert": "^1.0.1",
     "infinity-utils": "^1.0.2",
     "run-loop-til-success": "^1.0.1",
     "ttk_library": "^1.2.1",
